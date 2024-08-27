@@ -8,4 +8,4 @@ This demo app shows a simple user profile app set up using
 All components are docker-based
 
 
-Credits TechWorld With Nana.
+**Credits TechWorld With Nana.**
